@@ -9,7 +9,6 @@ Bueno, cuando pagas más de 2000€ en conseguir ciertas certificaciones de alto
 Esta vez me gustaría hacer un review de como me fué en la certificación,  que sentí realizando el proceso. Quizás esto responde a tus preguntas de si estás preparado para ello, si te ves con fuerzas.
 <p align="center">
   <img src="ElearnSecurity EJPT Junior Penetration Tester" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
 </p>
 
 
