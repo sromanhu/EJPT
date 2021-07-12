@@ -7,7 +7,11 @@ Bueno, cuando pagas más de 2000€ en conseguir ciertas certificaciones de alto
 
 
 Esta vez me gustaría hacer un review de como me fué en la certificación,  que sentí realizando el proceso. Quizás esto responde a tus preguntas de si estás preparado para ello, si te ves con fuerzas.
-<img src> ElearnSecurity EJPT Junior Penetration Tester.JPG </img>
+<p align="center">
+  <img src="ElearnSecurity EJPT Junior Penetration Tester" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+
 
 1- En primer lugar, para preparar la certificación no necesitas más que ganas de aprender y esfuerzo por practicar. Todo ello de forma gratuita en la web de INE.
 https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student   - Lukaskz Mikula 
