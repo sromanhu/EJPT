@@ -1,4 +1,4 @@
-**_### EJPT CERTIFICATE_**
+### EJPT CERTIFICATE_**
 Hace tiempo que empecé a tener curiosidad por la ciberseguridad y cada día tenía más ganas de aprender de ello. Cada día que buscaba información por internet y empezaba a entender como funcionaba a alto nivel, me di cuenta que es la rama de la informática que más me ha apasionado aprender en menos tiempo. Entonces empecé a mirar qué certificación realizar, que fuera apta para mis pocos conocimientos prácticos en ciberseguridad y elegí EJPT - eLearnSecurity Junior Penetration Tester. 
 
 Decidí estudiar esta certificación por 2 motivos:
