@@ -68,4 +68,4 @@ Te creas un directorio de trabajo, realizas carpetas para cada apartado de enume
 
 8 - El proceso de resolución es conseguir ciertos objetivos. Averiguar contraseñas (a nivel local, FTP), descifrar hashes, acceso a BBDD, etc.. 
 Si necesitas ayuda puedes encontrarme en Linkedin y puedes preguntarme lo que necesites!!
-https://www.linkedin.com/in/sergio-roman-hurtado-033a8023/
+**https://www.linkedin.com/in/sergio-roman-hurtado-033a8023/**
